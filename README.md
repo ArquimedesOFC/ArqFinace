@@ -29,9 +29,6 @@ CSS (via arquivos estáticos ou inline): estilos visuais
 JavaScript Vanilla: interações básicas da interface
 
 🗂 Estrutura de Arquivos
-pgsql
-Copiar
-Editar
 ArqFinace/
 ├── assets/
 │   ├── imagens/
@@ -53,8 +50,6 @@ Adição de temas (modo claro/escuro)
 Clone o repositório:
 
 bash
-Copiar
-Editar
 git clone https://github.com/ArquimedesOFC/ArqFinace.git
 Acesse a pasta do projeto e abra o arquivo index.html em qualquer navegador moderno.
 
