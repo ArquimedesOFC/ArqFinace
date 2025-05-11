@@ -39,6 +39,7 @@ ArqFinace/
 │   └── scripts/
 ├── index.html
 └── README.md
+
 📌 Possíveis Expansões Futuras
 Integração com APIs reais de autenticação ou transações
 
