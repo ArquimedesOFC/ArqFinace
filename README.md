@@ -2,7 +2,7 @@ ArqFinace
 ArqFinace é uma landing page moderna e responsiva para um banco digital fictício, criada com o objetivo de apresentar de forma visualmente atraente os serviços e valores de uma fintech. O projeto foi idealizado como uma vitrine conceitual, simulando a presença digital de uma startup bancária com foco em tecnologia, inovação e acessibilidade financeira.
 
 🧠 Objetivo
-O principal propósito do ArqFinace é demonstrar a estrutura visual e informativa de uma página inicial para um banco digital, servindo como:
+O principal propósito do ArqFinace é demonstrar a estrutura visual e informativa de uma página inicial para um banco digital, servindo como :
 
 Protótipo para projetos de portfólio
 
